@@ -59,10 +59,9 @@ This project is inspired by the video **["Give Your Linux Terminal A Stunning Ma
 ## 🚀 Quick Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/samurai-terminal.git
+git clone https://github.com/Satishchoudhary94/samurai-terminal.git
 cd samurai-terminal
-chmod +x install.sh
-./install.sh
+chmod +x samurai-terminal.sh && ./samurai-terminal.sh
 ```
 
 The script handles everything automatically. Just sit back and watch.
