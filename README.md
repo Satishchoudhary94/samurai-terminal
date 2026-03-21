@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/demo.png" alt="Samurai Terminal Demo" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3e55b26c-c4fd-4f47-9fca-4386061896ac" alt="Samurai Terminal Demo" width="800"/>
 </p>
+
 
 ---
 
